@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v1.4.3.html	[TIMODOPEN-200] Add HTML printing
+
 v1.4.3 	[MOD-2078] module not working in 3.5.0.GA
 
 v1.4.2 	Updated module
